@@ -1,0 +1,93 @@
+Sr. No,Sample ID,Unnamed: 2,Date,Location,Kit used,CtN,CtE,CtRdRp,PCR Result
+20.0,SSBS/M/2021/20,S-20,08-10-2021,Rahatni new DP road,Genepath,35.6,0.0,35.7,Positive
+56.0,SSBS/M/2021/56,S-56,19-10-2021,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+70.0,SSBS/M/2021/70,S-70,22-10-2021,Rahatni new DP road,Genepath,0.0,37.3,0.0,Negative
+84.0,SSBS/M/2021/84,S-84,26-10-2021,"DP road, Botanical Garden, Aundh",Genepath,36.9,35.4,37.0,Positive
+108.0,SSBS/W/2021/108,S-108,11-11-2021,"DP road, Botanical Garden, Aundh",Genepath,39.4,38.1,38.5,Negative
+125.0,SSBS/W/2021/125,S-125,16-10-2021,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+139.0,SSBS/W/2021/139,S-139,19-11-2021,Rahatni new DP road,Genepath,37.1,36.57,36.4,Negative
+153.0,SSBS/W/2021/153,S-153,23-11-2021,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+167.0,SSBS/W/2021/167,S-167,26-11-2021,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+181.0,SSBS/W/2021/181,S-181,30-11-2021,"DP road, Botanical Garden, Aundh",Genepath,0.0,37.7,36.6,Negative
+195.0,SSBS/W/2021/195,S-195,04-12-2021,Rahatni new DP road,Genepath,0.0,38.43,0.0,Negative
+209.0,SSBS/W/2021/209,S-209,07-12-2021,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+223.0,SSBS/W/2021/223,S-223,10-12-2021,Rahatni new DP road,Genepath,36.9,35.81,0.0,Positive
+237.0,SSBS/W/2021/237,S-237,14-12-2021,"DP road, Botanical Garden, Aundh",Genepath,32.0,36.0,35.0,Positive
+251.0,SSBS/W/2021/251,S-251,17-12-2021,Rahatni new DP road,Genepath,33.0,37.0,32.0,Positive
+262.0,SSBS/W/2021/262,S-262,21-12-2021,"DP road, Botanical Garden, Aundh",Genepath,32.32,35.8,35.06,Positive
+279.0,SSBS/W/2021/279,S-279,24-12-2021,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+286.0,SSBS/W/2021/286,S-286,24-12-2021,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+306.0,SSBS/W/2021/306,S-306,31-12-2021,Rahatni new DP road,Genepath,32.2,34.7,33.86,Positive
+324.0,SSBS/W/2022/324,S-324,05-01-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+338.0,SSBS/W/2021/338,S-338,07-01-2022,Rahatni new DP road,Genepath,30.55,32.91,32.07,Positive
+346.0,SSBS/W/2022/346,S-346,11-01-2022,"DP road, Botanical Garden, Aundh",Genepath,28.31,31.38,31.06,Positive
+362.0,SSBS/W/2022/362,S-362,15-01-2022,Rahatni new DP road,Genepath,29.3,32.0,31.5,Positive
+376.0,SSBS/W/2022/376,S-376,18-01-2022,"DP road, Botanical Garden, Aundh",Genepath,28.4,31.6,30.8,Positive
+403.0,SSBS/W/2022/403,S-403,25-01-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+421.0,SSBS/W/2022/421,S-421,29-01-2022,Rahatni new DP road,Genepath,28.42,33.5,32.42,Positive
+429.0,SSBS/W/2022/429,S-429,01-02-2022,"DP road, Botanical Garden, Aundh",Genepath,31.27,37.39,36.92,Positive
+445.0,SSBS/S/2022/445,S-445,04-02-2022,Rahatni new DP road,Genepath,37.19,36.56,36.07,Positive
+458.0,SSBS/S/2022/458,S-458,08-02-2022,"DP road, Botanical Garden, Aundh",Genepath,37.45,39.87,36.6,Negative
+477.0,SSBS/S/2022/477,S-477,11-02-2022,Rahatni new DP road,Genepath,34.6,36.1,34.9,Positive
+486.0,SSBS/S/2022/486,S-486,15-02-2022,"DP road, Botanical Garden, Aundh",Genepath,35.3,37.6,35.6,Positive
+505.0,SSBS/S/2022/505,S-505,18-02-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+514.0,SSBS/S/2022/514,S-514,22-02-2022,"DP road, Botanical Garden, Aundh",Genepath,35.52,36.92,33.98,Positive
+529.0,SSBS/S/2022/529,S-529,25-02-2022,Rahatni new DP road,Genepath,36.53,38.39,36.83,Positive
+542.0,SSBS/S/2022/542,S-542,01-03-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+557.0,SSBS/S/2022/557,S-557,04-03-2022,Rahatni new DP road,Genepath,31.58,36.72,36.54,Positive
+573.0,SSBS/S/2022/573,S-573,08-03-2022,"DP road, Botanical Garden, Aundh",Genepath,32.18,36.4,0.0,Positive
+585.0,SSBS/S/2022/585,S-585,11-03-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+601.0,SSBS/S/2022/601,S-601,15-03-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+624.0,SSBS/S/2022/624,S-624,22-03-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,37.02,0.0,Negative
+636.0,SSBS/S/2022/636,S-636,25-03-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+648.0,SSBS/S/2022/648,S-648,29-03-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+664.0,SSBS/S/2022/664,S-664,01-04-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+679.0,SSBS/S/2022/679,S-679,05-04-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+692.0,SSBS/S/2022/692,S-692,08-04-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+704.0,SSBS/S/2022/704,S-704,12-04-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+715.0,SSBS/S/2022/715,S-715,15-04-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+730.0,SSBS/S/2022/730,S-730,19-04-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+743.0,SSBS/S/2022/743,S-743,22-04-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+758.0,SSBS/S/2022/758,S-758,26-04-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+775.0,SSBS/S/2022/775,S-775,29-04-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+787.0,SSBS/S/2022/787,S-787,04-05-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,38.4,Negative
+797.0,SSBS/S/2022/797,S-797,06-05-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+809.0,SSBS/S/2022/809,S-809,10-05-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+821.0,SSBS/S/2022/821,S-821,13-05-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+837.0,SSBS/S/2022/837,S-837,17-05-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+849.0,SSBS/S/2022/849,S-849,20-05-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+865.0,SSBS/S/2022/865,S-865,24-05-2022,"DP road, Botanical Garden, Aundh",Genepath,40.0,0.0,40.0,Negative
+877.0,SSBS/S/2022/877,S-877,27-05-2022,Rahatni new DP road,Genepath,35.98,34.84,36.57,Negative
+893.0,SSBS/S/2022/893,S-893,31-05-2022,"DP road, Botanical Garden, Aundh",Genepath,34.67,34.34,0.0,Positive
+904.0,SSBS/S/2022/904,S-904,03-06-2022,Rahatni new DP road,Genepath,0.0,36.0,35.0,Negative
+920.0,SSBS/S/2022/920,S-920,07-06-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,0.0,0.0,Negative
+935.0,SSBS/S/2022/935,S-935,10-06-2022,Rahatni new DP road,Genepath,37.46,37.73,0.0,Positive
+947.0,SSBS/S/2022/947,S-947,14-06-2022,"DP road, Botanical Garden, Aundh",Genepath,33.5,0.0,0.0,Negative
+962.0,SSBS/S/2022/962,S-962,17-06-2022,Rahatni new DP road,Genepath,28.6,34.0,32.4,Positive
+972.0,SSBS/S/2022/972,S-972,21-06-2022,"DP road, Botanical Garden, Aundh",Genepath,30.0,36.0,34.0,Positive
+983.0,SSBS/S/2022/983,S-983,24-06-2031,Rahatni new DP road,Genepath,30.0,33.0,32.0,Positive
+997.0,SSBS/S/2022/997,S-997,28-06-2022,"DP road, Botanical Garden, Aundh",Genepath,31.8,34.5,33.2,Positive
+1011.0,SSBS/M/2022/1011,S-1011,01-07-22,Rahatni new DP road,Genepath,0.0,0.0,39.2,Negative
+1024.0,SSBS/M/2022/1024,S-1024,05-07-2022,"DP road, Botanical Garden, Aundh",Genepath,28.9,33.0,32.1,Positive
+1037.0,SSBS/M/2022/1037,S-1037,08-07-2022,Rahatni new DP road,Genepath,29.0,33.2,32.1,Positive
+1051.0,SSBS/M/2022/1051,S-1051,12-07-2022,"DP road, Botanical Garden, Aundh",Genepath,35.4,39.6,38.1,Negative
+1062.0,SSBS/M/2022/1062,S-1062,15-07-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative
+1075.0,SSBS/M/2022/1075,S-1075,19-07-2022,"DP road, Botanical Garden, Aundh",Genepath,36.6,0.0,0.0,Negative
+1086.0,SSBS/M/2022/1086,S-1086,22-07-2022,Rahatni new DP road,Genepath,30.1,34.4,32.8,Positive
+1101.0,SSBS/M/2022/1101,S-1101,26-07-2022,"DP road, Botanical Garden, Aundh",Genepath,33.2,38.8,34.2,Positive
+1115.0,SSBS/M/2022/1115,S-1115,29-07-2022,Rahatni new DP road,Genepath,34.0,40.1,36.2,Negative
+1127.0,SSBS/M/2022/1127,S-1127,02-08-2022,"DP road, Botanical Garden, Aundh",Genepath,28.57,35.91,32.16,Positive
+1138.0,SSBS/M/2022/1138,S-1138,05-08-2022,Rahatni new DP road,Genepath,26.31,0.0,0.0,Negative
+1153.0,SSBS/M/2022/1153,S-1153,09-08-2022,"DP road, Botanical Garden, Aundh",Genepath,28.87,36.59,32.34,Positive
+1168.0,SSBS/M/2022/1168,S-1168,16-08-2022,"DP road, Botanical Garden, Aundh",Genepath,38.26,32.43,32.89,Positive
+1177.0,SSBS/M/2022/1177,S-1177,19-08-2022,Rahatni new DP road,Genepath,33.88,0.0,37.11,Negative
+1190.0,SSBS/M/2022/1190,S-1190,23-08-2022,"DP road, Botanical Garden, Aundh",Genepath,28.34,32.77,33.98,Positive
+1199.0,SSBS/M/2022/1199,S-1199,26-08-2022,Rahatni new DP road,Genepath,0.0,35.98,32.83,Negative
+1218.0,SSBS/M/2022/1218,S-1218,02-09-2022,Rahatni new DP road,Genepath,37.36,0.0,37.04,Negative
+1231.0,SSBS/M/2022/1231,S-1231,06-09-2022,"DP road, Botanical Garden, Aundh",Genepath,33.46,0.0,34.44,Positive
+1251.0,SSBS/M/2022/1251,S-1251,13-09-2022,"DP road, Botanical Garden, Aundh",Genepath,30.043,36.6731,33.4034,Positive
+1260.0,SSBS/M/2022/1260,S-1260,16-09-2022,Rahatni new DP road,Genepath,39.108,0.0,35.5838,Negative
+1273.0,SSBS/M/2022/1273,S-1273,20-09-2022,"DP road, Botanical Garden, Aundh",Genepath,31.8111,0.0,35.2529,Positive
+1282.0,SSBS/M/2022/1282,S-1282,23-09-2022,Rahatni new DP road,Genepath,33.5229,0.0,35.1472,Positive
+1295.0,SSBS/M/2022/1295,S-1295,27-09-2022,"DP road, Botanical Garden, Aundh",Genepath,0.0,37.95,23.67,Negative
+1304.0,SSBS/M/2022/1304,S-1304,30-09-2022,Rahatni new DP road,Genepath,0.0,0.0,0.0,Negative

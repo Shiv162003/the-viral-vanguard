@@ -1,0 +1,443 @@
+dailysamples,dailyconfirmed,dailyrecovered,dailydeceased,Date,Sr. No,Location,CtN,CtE,CtRdRp,PCR_Result
+2660,224,241,4,12/1/2021,184,Vitthalwadi/Hingne,36.8,33.5,36.46,Positive
+2660,224,241,4,12/1/2021,185,"Dattawadi, Rajaram Bridge",0,0,0,Negative
+2660,224,241,4,12/1/2021,186,"Kasba peth, Juna Bazaar, Shivajinagar",0,0,0,Negative
+2660,224,241,4,12/1/2021,187,"Old bund garden, Yerwada",0,0,0,Negative
+2660,224,241,4,12/1/2021,188,"RTO Office, Alandi road, Yerwada",36.26,35.24,0,Positive
+2660,224,241,4,12/1/2021,189,"Shantinagar, Vishrantwadi",35.8,33.37,37.3,Positive
+8602,1805,598,8,12/3/2021,190,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+8602,1805,598,8,12/3/2021,191,"Shastri Nagar, Pimpri",0,0,0,Negative
+8602,1805,598,8,12/3/2021,192,"Kasarwadi, Pimple gurav road",0,0,0,Negative
+8602,1805,598,8,12/3/2021,193,"Pimple Gurav, 60/feet road, Pimple Gurav",0,0,0,Negative
+8602,1805,598,8,12/3/2021,194,"Dapodi gaothan, Old Sangvi bridge",0,0,0,Negative
+25504,4953,4389,46,10/4/2021,1,"Sanjeevan Hospital, Kothrud",0,0,0,Negative
+25504,4953,4389,46,10/4/2021,2,"Bus Depot (main), Kothrud",0,0,0,Negative
+25504,4953,4389,46,10/4/2021,3,"Karve Road, Kothrud",0,0,0,Negative
+25504,4953,4389,46,10/4/2021,4,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",0,0,0,Negative
+25504,4953,4389,46,10/4/2021,5,Shivajinagar,0,0,0,Negative
+25504,4953,4389,46,10/4/2021,6,"Pune/Mumbai Highway NH, Shivajinagar",0,0,0,Negative
+22466,4849,3896,53,12/4/2021,195,"Rahatani, New DP road",0,0,0,Negative
+22466,4849,3896,53,12/4/2021,196,"Kalewadi, Adarsh Nagar",0,0,0,Negative
+22466,4849,3896,53,12/4/2021,197,Wolf Colony Pimpri,0,0,0,Negative
+22466,4849,3896,53,12/4/2021,198,Dapodi Sai Service,0,0,0,Negative
+22466,4849,3896,53,12/4/2021,199,"Dapodi, Harris Bridge",0,0,0,Negative
+11499,1165,4010,51,10/5/2021,7,"Baner, Mahalunge Bridge",0,0,0,Negative
+11499,1165,4010,51,10/5/2021,8,Baner/Balewadi,0,0,0,Negative
+11499,1165,4010,51,10/5/2021,9,Pashan,0,0,0,Negative
+11499,1165,4010,51,10/5/2021,10,"Sus/Pashan road, Pashan",0,0,0,Negative
+5753,261,333,10,10/6/2021,11,"Dattawadi, Rajaram Bridge",0,0,0,Negative
+5753,261,333,10,10/6/2021,12,"Vitthalwadi, Hingane, Sinhagad Road",0,0,0,Negative
+5753,261,333,10,10/6/2021,13,"Juna Bazaar, Sangam Bridge, Shivajinagar",0,0,0,Negative
+5753,261,333,10,10/6/2021,14,"RTO office, Alandi road Yerwada",0,0,0,Negative
+5829,331,459,10,12/6/2021,200,"Vaidhwadi Nala Catchment, Shivajinagar",34.28,32.13,35.9,Positive
+5829,331,459,10,12/6/2021,201,"Chaturshrungi Nala Catchment, Shivajinagar",36.2,35.6,37.1,Positive
+5829,331,459,10,12/6/2021,202,"Sanjeevan Hospital, Kothrud",0,0,0,Negative
+5829,331,459,10,12/6/2021,203,"Karve Road, Kothrud",0,0,0,Negative
+5829,331,459,10,12/6/2021,204,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",36,34.41,36.3,Positive
+5829,331,459,10,12/6/2021,205,"Bus Depot (main), Kothrud",0,0,0,Negative
+7226,320,302,5,10/7/2021,15,"Aditya Birla Hospital, Chinchwad",0,0,0,Negative
+7226,320,302,5,10/7/2021,16,"Laxminagar, Pimpri",0,0,0,Negative
+7226,320,302,5,10/7/2021,17,"Pimple Gurav road, Kasarwadi",0,0,0,Negative
+7226,320,302,5,10/7/2021,18,"60/feet road, pimple gurav",0,0,0,Negative
+7226,320,302,5,10/7/2021,19,"Old Sangvi bridge, Dapodi Gaothan",33.7,31.6,33.2,Positive
+4802,189,279,4,12/7/2021,206,"Mahalunge Road, Baner",0,0,0,Negative
+4802,189,279,4,12/7/2021,207,"Balewadi Phata, Baner",0,0,0,Negative
+4802,189,279,4,12/7/2021,208,"Pune/Mumbai Highway, Aundh/Sangvi",0,0,0,Negative
+4802,189,279,4,12/7/2021,209,"DP road, Botanical Garden, Aundh",0,0,0,Negative
+4802,189,279,4,12/7/2021,210,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+4802,189,279,4,12/7/2021,211,"Someshwarwadi, Pashan",0,0,0,Negative
+7620,2206,254,7,10/8/2021,20,"Rahatani, New DP road",35.7,35.6,0,Positive
+7620,2206,254,7,10/8/2021,21,"Kalewadi Road, New India Garage",37.8,36.9,0,Positive
+7620,2206,254,7,10/8/2021,22,"Pimpri, near Kalewadi Bridge",0,0,0,Negative
+7620,2206,254,7,10/8/2021,23,Backside of Sai service Dapodi,0,0,0,Negative
+7620,2206,254,7,10/8/2021,24,"Harris Bridge, Dapodi, Bopodi",0,0,0,Negative
+9485,22600,142,4,12/8/2021,212,"Shantinagar, Vishrantwadi",0,0,0,Negative
+9485,22600,142,4,12/8/2021,213,"RTO Office, Alandi road, Yerwada",36.7,35.27,0,Positive
+9485,22600,142,4,12/8/2021,214,"Old bund garden, Yerwada",0,0,0,Negative
+9485,22600,142,4,12/8/2021,215,"Kasba peth, Juna Bazaar, Shivajinagar",34.46,32.31,35,Positive
+9485,22600,142,4,12/8/2021,216,"Dattawadi, Rajaram Bridge",0,0,0,Negative
+9485,22600,142,4,12/8/2021,217,Vitthalwadi/Hingne,0,0,0,Negative
+8329,241,239,4,10/9/2021,25,Yerwada bund Garden,0,0,0,Negative
+8329,241,239,4,10/9/2021,26,Vishrantwadi,38.7,37.5,36.1,Positive
+6879,134,287,4,11/9/2021,93,"Dattawadi, Rajaram Bridge",0,0,0,Negative
+6879,134,287,4,11/9/2021,94,Vitthalwadi/Hingne,0,0,0,Negative
+6879,134,287,4,11/9/2021,95,"Old bund garden, Yerwada",0,0,0,Negative
+6879,134,287,4,11/9/2021,96,"Kasba peth, Juna Bazaar, Shivajinagar",0,0,0,Negative
+6879,134,287,4,11/9/2021,97,"RTO Office, Alandi road, Yerwada",0,0,0,Negative
+6879,134,287,4,11/9/2021,98,"Shantinagar, Vishrantwadi",0,0,0,Negative
+5755,196,218,4,12/9/2021,218,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+5755,196,218,4,12/9/2021,219,"Shastri Nagar, Pimpri",35.26,37.24,36.72,Positive
+5755,196,218,4,12/9/2021,220,"Kasarwadi, Pimple gurav road",16.71,38.67,15.71,Positive
+5755,196,218,4,12/9/2021,221,"Pimple Gurav, 60/feet road, Pimple Gurav",26.16,0,0,Positive
+5755,196,218,4,12/9/2021,222,"Dapodi gaothan, Old Sangvi bridge",36.6,0,36.8,Positive
+4651,86,153,1,11/10/2021,99,"Vaidhwadi Nala Catchment, Shivajinagar",0,0,0,Negative
+4651,86,153,1,11/10/2021,100,"Chaturshrungi Nala Catchment, Shivajinagar",0,0,0,Negative
+4651,86,153,1,11/10/2021,101,"Sanjeevan Hospital, Kothrud",0,0,0,Negative
+4651,86,153,1,11/10/2021,102,"Karve Road, Kothrud",0,0,0,Negative
+4651,86,153,1,11/10/2021,103,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",0,0,0,Negative
+4651,86,153,1,11/10/2021,104,"Bus Depot (main), Kothrud",0,0,0,Negative
+5390,115,169,2,12/10/2021,223,"Rahatani, New DP road",0,36.9,35.81,Positive
+5390,115,169,2,12/10/2021,224,"Kalewadi, Adarsh Nagar",35.7,35.19,34.95,Positive
+5390,115,169,2,12/10/2021,225,Wolf Colony Pimpri,0,0,0,Negative
+5390,115,169,2,12/10/2021,226,Dapodi Sai Service,0,0,0,Negative
+5390,115,169,2,12/10/2021,227,"Dapodi, Harris Bridge",0,0,0,Negative
+7214,1029,148,1,13/10/2021,38,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+7214,1029,148,1,13/10/2021,39,"Shastri nagar, Pimpri",37,35.1,35.7,Positive
+7214,1029,148,1,13/10/2021,40,"Kasarwadi, Pimple gurav road",35.2,35,36.4,Positive
+7214,1029,148,1,13/10/2021,41,"Pimple Gurav, 60/feet road, Pimple Gurav",37.1,35.8,0,Positive
+7214,1029,148,1,13/10/2021,42,"Dapodi gaothan, Old Sangvi bridge",0,0,0,Negative
+7214,1029,148,1,13/10/2021,43,"Harris Bridge, Dapodi/Bopodi",0,0,0,Negative
+7214,1029,148,1,13/10/2021,44,"Sandvik Cormorant, Phugewadi/Dapodi",0,0,0,Negative
+7214,1029,148,1,13/10/2021,45,"Wolf Colony, Pimpri",0,0,0,Negative
+7214,1029,148,1,13/10/2021,46,"Adarsh nagar, Kalewadi road, Kalewadi",36,35.6,38,Positive
+4360,840,179,2,16/10/2021,122,"Mahalunge Road, Baner",0,0,0,Negative
+4360,840,179,2,16/10/2021,123,"Balewadi Phata, Baner",0,0,0,Negative
+4360,840,179,2,16/10/2021,124,"Pune/Mumbai Highway, Aundh/Sangvi",0,0,0,Negative
+4360,840,179,2,16/10/2021,125,"DP road, Botanical Garden, Aundh",0,0,0,Negative
+4360,840,179,2,16/10/2021,126,"Someshwarwadi, Pashan",0,0,0,Negative
+4360,840,179,2,16/10/2021,127,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+4675,70,122,1,18/10/2021,47,"Chaturshrungi Nala Catchment, Shivajinagar",0,0,0,Negative
+4675,70,122,1,18/10/2021,48,"Vaidhwadi Nala Catchment, Shivajinagar",0,33.7,35.2,Positive
+4675,70,122,1,18/10/2021,49,"Sanjeevan Hospital, Kothrud",0,0,0,Negative
+4675,70,122,1,18/10/2021,50,"Karve Road, Kothrud",0,0,0,Negative
+4675,70,122,1,18/10/2021,51,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",0,36.3,36.9,Positive
+4675,70,122,1,18/10/2021,52,"Bus Depot (main), Kothrud",0,0,0,Negative
+4780,112,119,2,19/10/2021,53,"Mahalunge Road, Baner",0,0,0,Negative
+4780,112,119,2,19/10/2021,54,"Balewadi Phata, Baner",37.5,33.8,36,Positive
+4780,112,119,2,19/10/2021,55,"Irene Towers, Baner road, Aundh",0,0,0,Negative
+4780,112,119,2,19/10/2021,56,"DP road, Botanical Garden, Aundh",0,0,0,Negative
+4780,112,119,2,19/10/2021,57,"Someshwarwadi, Pashan",0,0,0,Negative
+4780,112,119,2,19/10/2021,58,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+5986,112,118,0,20/10/2021,59,"Dattawadi, Rajaram Bridge",37.2,34.4,35.2,Positive
+5986,112,118,0,20/10/2021,60,Vitthalwadi/Hingne,0,0,0,Negative
+5986,112,118,0,20/10/2021,61,"Kasba peth, Juna Bazaar, Shivajinagar",37.7,34.7,0,Positive
+5986,112,118,0,20/10/2021,62,"Old bund garden, Yerwada",37.8,36.4,36.5,Positive
+5986,112,118,0,20/10/2021,63,"RTO Office, Alandi road, Yerwada",0,0,0,Negative
+5986,112,118,0,20/10/2021,64,"Shantinagar, Vishrantwadi",0,0,0,Positive
+5710,79,83,0,21/10/2021,65,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+5710,79,83,0,21/10/2021,66,"Shastri Nagar, Pimpri",36.9,33.6,0,Positive
+5710,79,83,0,21/10/2021,67,"Kasarwadi, Pimple gurav road",0,0,0,Negative
+5710,79,83,0,21/10/2021,68,"Pimple Gurav, 60/feet road, Pimple Gurav",0,0,0,Negative
+5710,79,83,0,21/10/2021,69,"Dapodi gaothan, Old Sangvi bridge",0,0,0,Negative
+5763,91,113,2,22/10/2021,70,"New DP Road, Rahatani",0,0,0,Negative
+5763,91,113,2,22/10/2021,71,"Adarsh Nagar, Kalewadi road, Kalewadi",0,0,0,Negative
+5763,91,113,2,22/10/2021,72,"Sandvik Cormorant, Phugewadi/Dapodi",0,0,0,Negative
+5763,91,113,2,22/10/2021,73,"Harris Bridge, Dapodi/Bopodi",0,0,0,Negative
+5763,91,113,2,22/10/2021,74,"Chaturshrungi Nala Catchment, Shivajinagar",0,0,0,Negative
+3533,550,86,1,25/10/2021,75,"Vaidhwadi Nala Catchment, Shivajinagar",0,0,0,Negative
+3533,550,86,1,25/10/2021,76,"Chaturshrungi Nala Catchment, Shivajinagar",0,0,0,Negative
+3533,550,86,1,25/10/2021,77,"Sanjeevan Hospital, Kothrud",36.8,34.8,39,Positive
+3533,550,86,1,25/10/2021,78,"Karve Road, Kothrud",0,0,0,Negative
+3533,550,86,1,25/10/2021,79,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",36.5,35,33.7,Positive
+3533,550,86,1,25/10/2021,80,"Bus Depot (main), Kothrud",0,0,0,Positive
+3864,610,82,0,26/10/2021,81,"Mahalunge Road, Baner",0,0,0,Negative
+3864,610,82,0,26/10/2021,82,"Balewadi Phata, Baner",35.4,34.3,35.3,Positive
+3864,610,82,0,26/10/2021,83,"Pune/Mumbai Highway, Aundh/Sangvi",0,0,0,Negative
+3864,610,82,0,26/10/2021,84,"DP road, Botanical Garden, Aundh",36.9,35.4,37,Positive
+3864,610,82,0,26/10/2021,85,"Someshwarwadi, Pashan",0,0,0,Negative
+3864,610,82,0,26/10/2021,86,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+5490,960,104,0,27/10/2021,87,"Dattawadi, Rajaram Bridge",0,0,0,Negative
+5490,960,104,0,27/10/2021,88,Vitthalwadi/Hingne,0,0,0,Negative
+5490,960,104,0,27/10/2021,89,"Kasba peth, Juna Bazaar, Shivajinagar",0,0,0,Negative
+5490,960,104,0,27/10/2021,90,"Old bund garden, Yerwada",0,0,0,Negative
+5490,960,104,0,27/10/2021,91,"RTO Office, Alandi road, Yerwada",0,0,0,Negative
+5490,960,104,0,27/10/2021,92,"Shantinagar, Vishrantwadi",0,0,0,Negative
+5686,830,71,2,10/11/2021,27,"Vaidhwadi Nala Catchment, Shivajinagar",36,34.9,36.3,Positive
+5686,830,71,2,10/11/2021,28,"Chaturshrungi Nala Catchment, Shivajinagar",33.8,33,34.6,Positive
+5686,830,71,2,10/11/2021,29,"Sanjeevan Hospital, Kothrud",35.3,34.6,35.8,Positive
+5686,830,71,2,10/11/2021,30,"Karve Road, Kothrud",35.7,0,34.5,Positive
+5686,830,71,2,10/11/2021,31,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",35.5,34.6,36.9,Positive
+5686,830,71,2,10/11/2021,32,"Bus Depot (main), Kothrud",34.1,32.3,33.5,Positive
+5176,750,44,0,11/11/2021,105,"Mahalunge Road, Baner",0,0,0,Negative
+5176,750,44,0,11/11/2021,106,"Balewadi Phata, Baner",0,0,0,Negative
+5176,750,44,0,11/11/2021,107,"Pune/Mumbai Highway, Aundh/Sangvi",0,0,0,Negative
+5176,750,44,0,11/11/2021,108,"DP road, Botanical Garden, Aundh",0,0,0,Negative
+5176,750,44,0,11/11/2021,109,"Someshwarwadi, Pashan",0,0,0,Negative
+5176,750,44,0,11/11/2021,110,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+4081,48,54,1,15/11/2021,116,"Vaidhwadi Nala Catchment, Shivajinagar",0,0,0,Negative
+4081,48,54,1,15/11/2021,117,"Chaturshrungi Nala Catchment, Shivajinagar",0,0,0,Negative
+4081,48,54,1,15/11/2021,118,"Sanjeevan Hospital, Kothrud",0,0,0,Negative
+4081,48,54,1,15/11/2021,119,"Karve Road, Kothrud",0,0,0,Negative
+4081,48,54,1,15/11/2021,120,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",0,0,0,Negative
+4081,48,54,1,15/11/2021,121,"Bus Depot (main), Kothrud",0,0,0,Negative
+5176,106,69,2,17/11/2021,128,"Dattawadi, Rajaram Bridge",0,0,0,Negative
+5176,106,69,2,17/11/2021,129,Vitthalwadi/Hingne,0,0,0,Negative
+5176,106,69,2,17/11/2021,130,"Kasba peth, Juna Bazaar, Shivajinagar",0,0,0,Negative
+5176,106,69,2,17/11/2021,131,"Old bund garden, Yerwada",0,0,0,Negative
+5176,106,69,2,17/11/2021,132,"RTO Office, Alandi road, Yerwada",0,0,0,Negative
+5176,106,69,2,17/11/2021,133,"Shantinagar, Vishrantwadi",0,0,0,Negative
+4797,920,47,2,18/11/2021,134,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+4797,920,47,2,18/11/2021,135,"Shastri Nagar, Pimpri",0,0,0,Negative
+4797,920,47,2,18/11/2021,136,"Kasarwadi, Pimple gurav road",0,0,0,Negative
+4797,920,47,2,18/11/2021,137,"Pimple Gurav, 60/feet road, Pimple Gurav",35,32.72,35,Positive
+4797,920,47,2,18/11/2021,138,"Dapodi gaothan, Old Sangvi bridge",0,0,0,Negative
+5044,75,113,2,19/11/2021,139,"New DP Road, Rahatani",0,0,0,Negative
+5044,75,113,2,19/11/2021,140,"Adarsh Nagar, Kalewadi road, Kalewadi",0,0,0,Negative
+5044,75,113,2,19/11/2021,141,"Wolf Colony, Pimpri",0,0,0,Negative
+5044,75,113,2,19/11/2021,142,"Sandvik Cormorant, Phugewadi/Dapodi",0,0,0,Negative
+5044,75,113,2,19/11/2021,143,"Harris Bridge, Dapodi/Bopodi",0,0,0,Negative
+3222,450,85,0,22/11/2021,144,"Vaidhwadi Nala Catchment, Shivajinagar",37.3,35.76,36.7,Positive
+3222,450,85,0,22/11/2021,145,"Chaturshrungi Nala Catchment, Shivajinagar",0,0,0,Negative
+3222,450,85,0,22/11/2021,146,"Sanjeevan Hospital, Kothrud",0,0,0,Negative
+3222,450,85,0,22/11/2021,147,"Karve Road, Kothrud",0,0,0,Negative
+3222,450,85,0,22/11/2021,148,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",0,0,0,Negative
+3222,450,85,0,22/11/2021,149,"Bus Depot (main), Kothrud",0,0,0,Negative
+3389,1000,90,1,23/11/2021,150,"Mahalunge Road, Baner",0,0,0,Negative
+3389,1000,90,1,23/11/2021,151,"Balewadi Phata, Baner",0,0,0,Negative
+3389,1000,90,1,23/11/2021,152,"Pune/Mumbai Highway, Aundh/Sangvi",0,0,0,Negative
+3389,1000,90,1,23/11/2021,153,"DP road, Botanical Garden, Aundh",0,0,0,Negative
+3389,1000,90,1,23/11/2021,154,"Someshwarwadi, Pashan",0,0,0,Negative
+3389,1000,90,1,23/11/2021,155,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+4842,95,106,2,24/11/2021,156,"Dattawadi, Rajaram Bridge",0,0,0,Negative
+4842,95,106,2,24/11/2021,157,Vitthalwadi/Hingne,0,0,0,Negative
+4842,95,106,2,24/11/2021,158,"Kasba peth, Juna Bazaar, Shivajinagar",0,0,0,Negative
+4842,95,106,2,24/11/2021,159,"Old bund garden, Yerwada",0,0,0,Negative
+4842,95,106,2,24/11/2021,160,"RTO Office, Alandi road, Yerwada",0,0,0,Negative
+4842,95,106,2,24/11/2021,161,"Shantinagar, Vishrantwadi",0,0,0,Negative
+4411,900,47,2,25/11/2021,162,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+4411,900,47,2,25/11/2021,163,"Shastri Nagar, Pimpri",0,0,0,Negative
+4411,900,47,2,25/11/2021,164,"Kasarwadi, Pimple gurav road",0,0,0,Negative
+4411,900,47,2,25/11/2021,165,"Pimple Gurav, 60/feet road, Pimple Gurav",0,0,0,Negative
+4411,900,47,2,25/11/2021,166,"Dapodi gaothan, Old Sangvi bridge",0,0,0,Negative
+4628,880,95,0,26/11/2021,167,"New DP Road, Rahatani",0,0,0,Negative
+4628,880,95,0,26/11/2021,168,"Adarsh Nagar, Kalewadi road, Kalewadi",0,0,0,Negative
+4628,880,95,0,26/11/2021,169,"Wolf Colony, Pimpri",0,0,0,Negative
+4628,880,95,0,26/11/2021,170,"Sandvik Cormorant, Phugewadi/Dapodi",0,0,0,Negative
+4628,880,95,0,26/11/2021,171,"Harris Bridge, Dapodi/Bopodi",0,0,0,Negative
+3118,510,73,0,29/11/2021,172,"Vaidhwadi Nala Catchment, Shivajinagar",0,0,0,Negative
+3118,510,73,0,29/11/2021,173,"Chaturshrungi Nala Catchment, Shivajinagar",33.4,31.84,34,Positive
+3118,510,73,0,29/11/2021,174,"Sanjeevan Hospital, Kothrud",35.43,0,36.7,Positive
+3118,510,73,0,29/11/2021,175,"Karve Road, Kothrud",0,0,0,Negative
+3118,510,73,0,29/11/2021,176,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",36.33,33.32,36.5,Positive
+3118,510,73,0,29/11/2021,177,"Bus Depot (main), Kothrud",0,0,0,Negative
+3869,780,84,0,30/11/2021,178,"Mahalunge Road, Baner",0,0,0,Negative
+3869,780,84,0,30/11/2021,179,"Balewadi Phata, Baner",0,0,0,Negative
+3869,780,84,0,30/11/2021,180,"Pune/Mumbai Highway, Aundh/Sangvi",0,0,0,Negative
+3869,780,84,0,30/11/2021,181,"DP road, Botanical Garden, Aundh",0,0,0,Negative
+3869,780,84,0,30/11/2021,182,"Someshwarwadi, Pashan",0,0,0,Negative
+3869,780,84,0,30/11/2021,183,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+6500,707,78,1,10/12/2021,33,"Balewadi Phata, Baner",0,0,0,Negative
+6500,707,78,1,10/12/2021,34,"Jai Bhawani nagar, Pashan",0,0,0,Inconclusive
+6500,707,78,1,10/12/2021,35,"Someshwarwadi, Pashan",0,0,0,Negative
+6500,707,78,1,10/12/2021,36,"Irene Towers, Baner road, Aundh",0,0,0,Negative
+6500,707,78,1,10/12/2021,37,"Mahalunge Road, Baner",0,0,0,Inconclusive
+6192,806,97,1,11/12/2021,111,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+6192,806,97,1,11/12/2021,112,"Shastri Nagar, Pimpri",0,0,0,Negative
+6192,806,97,1,11/12/2021,113,"Kasarwadi, Pimple gurav road",0,0,0,Negative
+6192,806,97,1,11/12/2021,114,"Pimple Gurav, 60/feet road, Pimple Gurav",0,0,0,Negative
+6192,806,97,1,11/12/2021,115,"Dapodi gaothan, Old Sangvi bridge",0,0,0,Negative
+4486,503,83,1,13/12/2021,228,"Vaidhwadi Nala Catchment, Shivajinagar",32,35,34,Positive
+4486,503,83,1,13/12/2021,229,"Chaturshrungi Nala Catchment, Shivajinagar",35,0,35,Positive
+4486,503,83,1,13/12/2021,230,"Sanjeevan Hospital, Kothrud",34,39,36,Positive
+4486,503,83,1,13/12/2021,231,"Karve Road, Kothrud",0,0,0,Negative
+4486,503,83,1,13/12/2021,232,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",33,38,30,Positive
+4486,503,83,1,13/12/2021,233,"Bus Depot (main), Kothrud",0,0,0,Negative
+4168,701,90,0,14/12/2021,234,"Mahalunge Road, Baner",0,0,0,Negative
+4168,701,90,0,14/12/2021,235,"Balewadi Phata, Baner",0,0,0,Negative
+4168,701,90,0,14/12/2021,236,"Pune/Mumbai Highway, Aundh/Sangvi",0,0,0,Negative
+4168,701,90,0,14/12/2021,237,"DP road, Botanical Garden, Aundh",32,36,35,Positive
+4168,701,90,0,14/12/2021,238,"Someshwarwadi, Pashan",0,0,0,Negative
+4168,701,90,0,14/12/2021,239,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+6229,120,80,0,15/12/2021,240,"Dattawadi, Rajaram Bridge",22,0,32,Positive
+6229,120,80,0,15/12/2021,241,Vitthalwadi/Hingne,38,38,35,Negative
+6229,120,80,0,15/12/2021,242,"Kasba Peth, Juna Bazaar, Shivajinagar",0,0,0,Negative
+6229,120,80,0,15/12/2021,243,"Old bund garden, Yerwada",0,0,0,Negative
+6229,120,80,0,15/12/2021,244,"RTO Office, Alandi road, Yerwada",33,35,33,Positive
+6229,120,80,0,15/12/2021,245,"Shantinagar, Vishrantwadi",32,36,35,Positive
+6027,122,38,0,16/12/2021,246,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+6027,122,38,0,16/12/2021,247,"Shastri Nagar, Pimpri",34,37,35,Positive
+6027,122,38,0,16/12/2021,248,"Kasarwadi, Pimple gurav road",33,36,34,Positive
+6027,122,38,0,16/12/2021,249,"Pimple Gurav, 60/feet road, Pimple Gurav",36,38,34,Positive
+6027,122,38,0,16/12/2021,250,"Dapodi gaothan, Old Sangvi bridge",0,0,0,Negative
+6219,73,74,0,17/12/2021,251,"Rahatani, New DP road",33,37,32,Positive
+6219,73,74,0,17/12/2021,252,"Kalewadi, Adarsh Nagar",32,35,33,Positive
+6219,73,74,0,17/12/2021,253,Wolf Colony Pimpri,0,0,0,Negative
+6219,73,74,0,17/12/2021,254,Dapodi Sai Service,35,36,35,Positive
+6219,73,74,0,17/12/2021,255,"Dapodi, Harris Bridge",0,0,0,Negative
+4269,33,77,0,20/12/2021,256,"Vaidhwadi Nala Catchment, Shivajinagar",34.61,34.82,37.43,Positive
+4269,33,77,0,20/12/2021,257,"Chaturshrungi Nala Catchment, Shivajinagar",34.46,32.82,36.02,Positive
+4269,33,77,0,20/12/2021,258,"Sanjeevan Hospital, Kothrud",36.35,34.9,0,Positive
+4269,33,77,0,20/12/2021,259,"Karve Road, Kothrud",0,0,0,Negative
+4269,33,77,0,20/12/2021,260,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",35.57,33.31,37.03,Positive
+4269,33,77,0,20/12/2021,261,"Bus Depot (main), Kothrud",35.9,35.46,37.95,Positive
+4543,95,86,0,21/12/2021,262,"DP road, Botanical Garden, Aundh",35.06,32.32,35.8,Positive
+4543,95,86,0,21/12/2021,263,"Someshwarwadi, Pashan",0,0,0,Negative
+4543,95,86,0,21/12/2021,264,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+4543,95,86,0,21/12/2021,265,"Pune/Mumbai Highway, Aundh/Sangvi",0,0,0,Negative
+4543,95,86,0,21/12/2021,266,"Balewadi Phata, Baner",37.88,34.2,36.5,Positive
+4543,95,86,0,21/12/2021,267,"Mahalunge Road, Baner",33.69,33.58,35.56,Positive
+6077,127,96,1,22/12/2021,268,"Dattawadi, Rajaram Bridge",0,0,0,Negative
+6077,127,96,1,22/12/2021,269,Vitthalwadi/Hingne,34.18,34.62,36.92,Positive
+6077,127,96,1,22/12/2021,270,"Kasba peth, Juna Bazaar, Shivajinagar",33.77,33.18,36.31,Positive
+6077,127,96,1,22/12/2021,271,"Old bund garden, Yerwada",0,0,0,Negative
+6077,127,96,1,22/12/2021,272,"RTO Office, Alandi road, Yerwada",34.91,36.05,38.25,Positive
+6077,127,96,1,22/12/2021,273,"Shantinagar, Vishrantwadi",35.27,34.36,36.68,Positive
+6692,790,52,1,23/12/2021,274,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+6692,790,52,1,23/12/2021,275,"Shastri Nagar, Pimpri",34.21,33.85,0,Positive
+6692,790,52,1,23/12/2021,276,"Kasarwadi, Pimple gurav road",35.75,32.23,36.94,Positive
+6692,790,52,1,23/12/2021,277,"Pimple Gurav, 60/feet road, Pimple Gurav",0,0,0,Negative
+6692,790,52,1,23/12/2021,278,"Dapodi gaothan, Old Sangvi bridge",0,0,0,Negative
+7429,1200,72,1,24/12/2021,279,"Rahatani, New DP road",0,0,0,Negative
+7429,1200,72,1,24/12/2021,280,"Kalewadi, Adarsh Nagar",32.8,37.2,35.4,Positive
+7429,1200,72,1,24/12/2021,281,"Pimpri, shastri nagar",35.1,0,37,Positive
+7429,1200,72,1,24/12/2021,282,"Dapodi, Sai service",0,0,0,Negative
+7429,1200,72,1,24/12/2021,283,Dapodi Harris Bridge,35.9,37.3,36.3,Positive
+7429,1200,72,1,24/12/2021,285,"Balewadi Phata, Baner",0,0,0,Negative
+7429,1200,72,1,24/12/2021,286,"DP road, Botanical Garden, Aundh",0,0,0,Negative
+7429,1200,72,1,24/12/2021,287,"Someshwarwadi, Pashan an",0,0,0,Negative
+7429,1200,72,1,24/12/2021,288,"Jai Bhavani Nagar,",0,0,0,Negative
+4651,80,71,0,27/12/2021,284,"Mahalunge Road, Baner",0,0,0,Negative
+4701,171,91,1,28/12/2021,289,"Shivajinagar, Vaidhwadi",34.3,37.4,36.3,Positive
+4701,171,91,1,28/12/2021,290,"Shivajinagar,Chatturshringi",32.82,37.5,35.1,Positive
+4701,171,91,1,28/12/2021,291,Kothrud Sanjeevan hospital,31.7,36.3,34.8,Positive
+4701,171,91,1,28/12/2021,292,Kothrud karve road,0,0,0,Negative
+4701,171,91,1,28/12/2021,293,Warje,31.2,35.1,34.1,Positive
+4701,171,91,1,28/12/2021,294,"Bus Depot (main), Kothrud",31.7,35.4,34,Positive
+6600,232,83,0,29/12/2021,295,"Dattawadi, Rajaram Bridge",32.7,37,34.9,Positive
+6600,232,83,0,29/12/2021,296,"Vitthalwadi/Hingne Shantinagar,",32.8,36.5,34.8,Positive
+6600,232,83,0,29/12/2021,297,"Kasba peth, Juna Bazaar, Shivajinagar",30.7,34.8,33,Positive
+6600,232,83,0,29/12/2021,298,"Old bund garden, Yerwada",0,0,0,Negative
+6600,232,83,0,29/12/2021,299,"RTO Office, Alandi road, Yerwada",30.6,35.1,33.4,Positive
+6600,232,83,0,29/12/2021,300,"Vishrantwadi Pimple Gurav,",31.6,35.6,34.3,Positive
+6160,298,33,1,30/12/2021,301,"Aditya Birla Hospital Road,",0,0,0,Negative
+6160,298,33,1,30/12/2021,302,"Shastri Nagar, Pimpri",32.3,35.1,33.5,Positive
+6160,298,33,1,30/12/2021,303,"Kasarwadi, Pimple gurav road",33.2,37.1,35.1,Positive
+6160,298,33,1,30/12/2021,304,"60/feet road, Pimple Gurav",29.7,34.9,32.8,Positive
+6160,298,33,1,30/12/2021,305,"Under bridge Dapodi gaothan, Old Sangvi bridge",33.6,38.9,36.7,Positive
+6944,4012,95,0,31/12/2021,306,"Rahatani, New DP road",32.2,34.7,33.86,Positive
+6944,4012,95,0,31/12/2021,307,"Kalewadi, Adarsh Nagar",0,0,0,Negative
+6944,4012,95,0,31/12/2021,308,Wolf Colony Pimpri,0,0,0,Negative
+6944,4012,95,0,31/12/2021,319,"Dapodi, Sai service",0,0,0,Negative
+6944,4012,95,0,31/12/2021,310,Dapodi Harris Bridge,33.1,36.3,34.8,Positive
+6786,524,79,1,2/1/2022,428,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+6786,524,79,1,2/1/2022,429,"DP road, Botanical Garden, Aundh",31.27,37.39,36.92,Positive
+6786,524,79,1,2/1/2022,430,Aundh,31.28,37.55,36.23,Positive
+6786,524,79,1,2/1/2022,431,"Someshwarwadi, Pashan",0,0,0,Negative
+6786,524,79,1,2/1/2022,432,"Balewadi Phata, Baner",28.65,33.94,32.27,Positive
+6786,524,79,1,2/1/2022,433,"Mahalunge Road, Baner",0,0,0,Negative
+6573,444,120,0,3/1/2022,540,"Jai Bhavani Nagar, Pashan",0,0,0,Negative
+6573,444,120,0,3/1/2022,541,"Someshwarwadi, Pashan",0,0,0,Negative
+6573,444,120,0,3/1/2022,542,"DP road, Botanical Garden, Aundh",0,0,0,Negative
+6573,444,120,0,3/1/2022,543,"Balewadi Phata, Baner",35.16,37.81,36.62,Positive
+6573,444,120,0,3/1/2022,544,"Mahalunge Road, Baner",0,0,0,Negative
+6573,444,120,0,3/1/2022,545,Aundh,0,0,0,Negative
+6819,1104,151,1,4/1/2022,664,"Rahatani, New DP road",0,0,0,Negative
+6819,1104,151,1,4/1/2022,665,"Kalewadi, Adarsh Nagar",0,0,0,Negative
+6819,1104,151,1,4/1/2022,666,"Wolf Colony, Pimpri",0,0,0,Negative
+6819,1104,151,1,4/1/2022,667,"Dapodi, Sai service",0,0,0,Negative
+6819,1104,151,1,4/1/2022,668,Dapodi Harris Bridge,0,0,0,Negative
+15775,2284,80,3,6/1/2022,894,"Dattawadi, Rajaram Bridge",0,0,0,Negative
+15775,2284,80,3,6/1/2022,895,"Vitthalwadi/Hingne Shantinagar,",0,0,0,Negative
+15775,2284,80,3,6/1/2022,896,"Kasba Peth, Juna Bazaar, Shivajinagar",0,0,0,Negative
+15775,2284,80,3,6/1/2022,897,"RTO Office, Alandi road, Yerwada",0,0,0,Negative
+15775,2284,80,3,6/1/2022,898,"Shantinagar, Vishrantwadi",35.01,32.56,34.26,Positive
+18086,2757,628,2,7/1/2022,1010,"Kalewadi, Adarsh Nagar",0,0,0,Negative
+18086,2757,628,2,7/1/2022,1011,"Rahatani, New DP road",0,0,0,Negative
+18086,2757,628,2,7/1/2022,1012,"Wolf Colony, Pimpri",29.2,33.4,32.4,Positive
+18086,2757,628,2,7/1/2022,1013,"Dapodi, Sai service",0,0,0,Negative
+18086,2757,628,2,7/1/2022,1014,Dapodi Harris Bridge,34.2,0,34.9,Positive
+19186,2471,711,2,8/1/2022,1116,"Shivajinagar, Vaidhwadi Nala catchment",28.53,34.93,32.64,Positive
+19186,2471,711,2,8/1/2022,1117,"Shivajinagar, Chaturshrungi Nala Catchment",31.27,36.74,34.63,Positive
+19186,2471,711,2,8/1/2022,1118,Kothrud Sanjeevan hospital,32.26,35.43,35.7,Positive
+19186,2471,711,2,8/1/2022,1119,Kothrud Karve road,0,0,0,Negative
+19186,2471,711,2,8/1/2022,1120,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",29.05,33.95,33.09,Positive
+19186,2471,711,2,8/1/2022,1121,"Bus Depot (main), Kothrud",25.27,30.09,29.46,Positive
+18012,4029,688,1,9/1/2022,1213,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+18012,4029,688,1,9/1/2022,1214,"Shastri Nagar, Pimpri",29.6,36.02,32.51,Positive
+18012,4029,688,1,9/1/2022,1215,"Kasarwadi, Pimple gurav road",32.68,35.49,34.41,Positive
+18012,4029,688,1,9/1/2022,1216,"60/feet road, Pimple Gurav",28.84,33.29,31.23,Positive
+18012,4029,688,1,9/1/2022,1217,Dapodi/Sangvi,0,0,0,Negative
+14983,3459,1104,1,11/1/2022,1379,"Mahalunge Road, Baner",0,0,0,Negative
+14983,3459,1104,1,11/1/2022,1380,"Balewadi Phata, Baner",0,0,35.39,Negative
+14983,3459,1104,1,11/1/2022,1381,Aundh,0,0,0,Negative
+14983,3459,1104,1,11/1/2022,1382,"  Someshwarwadi, Pashan",0,0,0,Negative
+14983,3459,1104,1,11/1/2022,1383," Jai Bhavani Nagar, Pashan",0,0,0,Negative
+14983,3459,1104,1,11/1/2022,1384,"DP road, Botanical Garden, Aundh,",0,0,0,Negative
+20801,4857,1805,1,12/1/2022,1489,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+20801,4857,1805,1,12/1/2022,1490,"Shastri Nagar, Pimpri",0,0,0,Negative
+20801,4857,1805,1,12/1/2022,1491,"Kasarwadi, Pimple gurav road",0,0,0,Negative
+20801,4857,1805,1,12/1/2022,1492,"60/feet road, Pimple Gurav",0,39.56,0,Negative
+20801,4857,1805,1,12/1/2022,1493,Dapodi/Sangvi,0,40.54,0,Negative
+11129,2846,5521,7,2/2/2022,434,"Dattawadi, Rajaram Bridge",30,34.66,33.45,Positive
+11129,2846,5521,7,2/2/2022,435,"Vitthalwadi/Hingne Shantinagar,",28.76,34.07,32.74,Positive
+11129,2846,5521,7,2/2/2022,436,"Kasba Peth, Juna Bazaar, Shivajinagar",30.12,34.71,33.33,Positive
+11129,2846,5521,7,2/2/2022,437,"Old bund garden, Yerwada",32.84,35.73,34.88,Positive
+11129,2846,5521,7,2/2/2022,438,"Shantinagar, Vishrantwadi",29.38,34.36,33.36,Positive
+11129,2846,5521,7,2/2/2022,439,"RTO Office, Alandi road, Yerwada",30.57,35.46,34.18,Positive
+10536,2141,4136,9,3/2/2022,546,"Shantinagar, Vishrantwadi",0,0,0,Negative
+10536,2141,4136,9,3/2/2022,547,"RTO Office, Alandi road, Yerwada",0,0,0,Negative
+10536,2141,4136,9,3/2/2022,548,"Old bund garden, Yerwada",0,0,0,Negative
+10536,2141,4136,9,3/2/2022,549,"Kasba Peth, Juna Bazaar, Shivajinagar",0,0,0,Negative
+10536,2141,4136,9,3/2/2022,550,"Dattawadi, Rajaram Bridge",0,0,0,Negative
+10536,2141,4136,9,3/2/2022,551,"Vitthalwadi/Hingne Shantinagar,",0,0,0,Negative
+8833,1490,5410,9,5/2/2022,776,"Shivajinagar, Vaidhwadi Nala catchment",0,0,0,Negative
+8833,1490,5410,9,5/2/2022,777,"Shivajinagar, Chaturshrungi Nala Catchment",0,0,0,Negative
+8833,1490,5410,9,5/2/2022,778,Kothrud Sanjeevan hospital,0,0,0,Negative
+8833,1490,5410,9,5/2/2022,779,Kothrud Karve road,0,0,0,Negative
+8833,1490,5410,9,5/2/2022,780,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",0,0,0,Negative
+8833,1490,5410,9,5/2/2022,781,"Bus Depot (main), Kothrud",0,0,0,Negative
+7215,1434,3896,9,6/2/2022,899,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+7215,1434,3896,9,6/2/2022,900,"Shastri Nagar, Pimpri",0,0,0,Negative
+7215,1434,3896,9,6/2/2022,901,"Kasarwadi, Pimple gurav road",0,0,0,Negative
+7215,1434,3896,9,6/2/2022,902,"60/feet road, Pimple Gurav",0,0,0,Negative
+7215,1434,3896,9,6/2/2022,903,Dapodi/Sangvi,0,0,0,Negative
+5048,964,2075,5,8/2/2022,1122,"Mahalunge Road, Baner",0,0,0,Negative
+5048,964,2075,5,8/2/2022,1123,"Balewadi Phata, Baner",28.16,33.59,32.37,Positive
+5048,964,2075,5,8/2/2022,1124,Aundh,0,0,0,Negative
+5048,964,2075,5,8/2/2022,1125,"  Someshwarwadi, Pashan",0,0,0,Negative
+5048,964,2075,5,8/2/2022,1126," Jai Bhavani Nagar, Pashan",0,0,0,Negative
+5048,964,2075,5,8/2/2022,1127,"DP road, Botanical Garden, Aundh,",28.57,35.91,32.16,Positive
+7373,1171,2846,8,9/2/2022,1218,"Rahatani, New DP road",37.36,0,37.04,Negative
+7373,1171,2846,8,9/2/2022,1219,"Dapodi, Sai service",34.46,0,36.61,Negative
+7373,1171,2846,8,9/2/2022,1220,Dapodi Harris Bridge,0,0,0,Negative
+6448,700,2197,2,11/2/2022,1385," Dattawadi, Rajaram Bridge",0,0,36.43,Negative
+6448,700,2197,2,11/2/2022,1386,Vitthalwadi/Hingne Shantinagar,0,0,0,Negative
+6448,700,2197,2,11/2/2022,1387," Kasba Peth, Juna Bazaar, Shivajinagar",34.06,38.26,32.38,Positive
+6448,700,2197,2,11/2/2022,1388,"Shantinagar, Vishrantwadi",0,0,35.23,Negative
+5451,535,1490,3,12/2/2022,1494,"Rahatani, New DP road",0,36.98,0,Negative
+5451,535,1490,3,12/2/2022,1495,"Wolf Colony, Pimpri",0,0,0,Negative
+5451,535,1490,3,12/2/2022,1496,"Dapodi, Sai service",0,0,0,Negative
+5451,535,1490,3,12/2/2022,1497,Dapodi Harris Bridge,0,0,0,Negative
+2271,120,199,0,1/3/2022,311,"Shivajinagar, Vaidhwadi Nala catchment",33.2,35.7,34.4,Positive
+2271,120,199,0,1/3/2022,312,"Shivajinagar, Chaturshrungi Nala Catchment	",35.5,36.8,35.2,Positive
+2271,120,199,0,1/3/2022,313,Kothrud Sanjeevan hospital,0,0,0,Negative
+2271,120,199,0,1/3/2022,314,Kothrud Karve road,35.9,36.8,35.8,Positive
+2271,120,199,0,1/3/2022,315,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",0,0,0,Negative
+2271,120,199,0,1/3/2022,316,"Bus Depot (main), Kothrud",0,0,0,Negative
+2778,65,188,0,2/3/2022,440,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+2778,65,188,0,2/3/2022,441,"Shastri Nagar, Pimpri",29.21,33.77,32.4,Positive
+2778,65,188,0,2/3/2022,442,"Kasarwadi, Pimple gurav road",30.38,34.98,33,Positive
+2778,65,188,0,2/3/2022,443,"60/feet road, Pimple Gurav",29.59,34.06,32.95,Positive
+2778,65,188,0,2/3/2022,444,Dapodi/Sangvi,32.11,36.4,35.29,Positive
+2969,78,215,1,3/3/2022,552,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+2969,78,215,1,3/3/2022,553,"Shastri Nagar, Pimpri",0,0,0,Negative
+2969,78,215,1,3/3/2022,554,"Kasarwadi, Pimple gurav road",0,0,0,Negative
+2969,78,215,1,3/3/2022,555,"60/feet road, Pimple Gurav",0,0,0,Negative
+2969,78,215,1,3/3/2022,556,Dapodi/Sangvi,0,0,0,Negative
+2703,99,129,0,6/3/2022,904,"Rahatani, New DP road",0,0,0,Negative
+2703,99,129,0,6/3/2022,905,"Kalewadi, Adarsh Nagar",0,0,0,Negative
+2703,99,129,0,6/3/2022,906,"Wolf Colony, Pimpri",0,0,0,Negative
+2703,99,129,0,6/3/2022,907,"Dapodi, Sai service",0,0,0,Negative
+2703,99,129,0,6/3/2022,908,Dapodi Harris Bridge,0,0,0,Negative
+2604,137,120,0,8/3/2022,1128," Dattawadi, Rajaram Bridge",30.75,35.52,34.12,Positive
+2604,137,120,0,8/3/2022,1129,"Vitthalwadi/Hingne Shantinagar,",29.96,33.32,34.25,Positive
+2604,137,120,0,8/3/2022,1130," Kasba Peth, Juna Bazaar, Shivajinagar",29.8,34.13,33.43,Positive
+2604,137,120,0,8/3/2022,1131,"RTO Office, Alandi road, Yerwada",30.7,34.97,33.8,Positive
+2604,137,120,0,8/3/2022,1132,"Shantinagar, Vishrantwadi",30.09,35.42,33.64,Positive
+2245,116,78,0,10/3/2022,1307,"Shivajinagar, Vaidhwadi Nala catchment",40.77,0,0,Negative
+2245,116,78,0,10/3/2022,1308,"Shivajinagar, Chaturshrungi Nala Catchment",0,0,0,Negative
+2245,116,78,0,10/3/2022,1309,Kothrud Sanjeevan hospital,0,0,0,Negative
+2245,116,78,0,10/3/2022,1310,Kothrud Karve road,0,0,0,Negative
+2245,116,78,0,10/3/2022,1311,"Warje, Mumbai/Bangalore Highway, Open Land below bridge",34.81,0,33.45,Positive
+2245,116,78,0,10/3/2022,1312,"Bus Depot (main), Kothrud",0,0,0,Negative
+2679,41,120,0,11/3/2022,1389,"Aditya Birla Hospital Road, Under bridge",0,0,0,Negative
+2679,41,120,0,11/3/2022,1390,"Shastri Nagar, Pimpri",0,0,39.47,Negative
+2679,41,120,0,11/3/2022,1391,"Kasarwadi, Pimple gurav road",0,0,0,Negative
+2679,41,120,0,11/3/2022,1392,"60/feet road, Pimple Gurav",0,0,0,Negative
+2679,41,120,0,11/3/2022,1393,Dapodi/Sangvi,0,0,40,Negative
+1892,32,15,0,1/4/2022,317,"Dattawadi, Rajaram Bridge",33.9,36.4,34.4,Positive
+1892,32,15,0,1/4/2022,318,Vitthalwadi/Hingne ,34.3,36.8,34.9,Positive
+1892,32,15,0,1/4/2022,319,"Kasba peth, Juna Bazaar, Shivajinagar",0,0,0,Negative
+1892,32,15,0,1/4/2022,320,"Old bund garden, Yerwada",0,0,0,Negative
+1892,32,15,0,1/4/2022,321,"RTO Office, Alandi road, Yerwada",0,0,0,Negative
+1892,32,15,0,1/4/2022,322,"Shantinagar, Vishrantwadi",36.8,36.8,36.25,Positive
